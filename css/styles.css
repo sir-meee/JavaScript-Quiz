@@ -1,0 +1,49 @@
+body {
+    background-color: gray;
+}
+.jumbotron {
+
+    color: red;
+    float: right;
+}
+h2{
+    color: red;
+}
+.radio{
+    text-align: left;
+}
+#quiz{
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 20px;
+}
+p {
+    padding: 15px 32px;
+    font-style: unset;
+}
+.btn {
+    float: right;
+    background-color: orange;
+    border: 25px;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+#submit{
+
+    text-align: right;
+    padding-top: 400px;
+}
+#result {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    background-color: white;
+    color: lime;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: fixed;
+    margin-top: 450px;
+    margin-left: 100px;
+}
