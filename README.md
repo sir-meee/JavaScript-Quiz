@@ -1,6 +1,12 @@
 # JavaScript Quiz
 ## Link to Site
  https://sir-meee.github.io/JavaScript-Quiz/
+## BDD
+ Specification: JavaScript Quiz
+  * Mark out your answers
+  * Submit answers
+  * The program checks the results in the backend
+  * The program returns the result.
 #### A JavaScript Quiz App with questions on the topic., 24th September 2018
 #### By **Sammy**
 ## Description
